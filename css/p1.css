@@ -1,0 +1,25 @@
+body{
+    background-color: #f0f0f0;
+    font-family:  Helvetica, sans-serif, Arial;
+}
+
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 1%;
+}
+
+section{
+    margin-top: 1%;
+    background-color: white;
+    margin-right: 15%;
+    margin-left: 15%;
+    padding: 1%;
+}
+
+section h2{
+    text-align: center;
+}
